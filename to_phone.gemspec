@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/to_phone.rb"]
   s.homepage    = 'https://rubygems.org/gems/to_phone'
   s.license     = 'MIT'
+  s.add_runtime_dependency 'phone'
 end
