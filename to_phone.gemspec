@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/to_phone.rb", "lib/extensions/float.rb", "lib/extensions/integer.rb", "lib/extensions/nil.rb", "lib/extensions/phone.rb", "lib/extensions/string.rb"]
   s.homepage    = 'https://rubygems.org/gems/to_phone'
   s.license     = 'MIT'
-  s.add_runtime_dependency 'phone', '~>1.2.0'
+  s.add_runtime_dependency 'phone', '~>1.2'
 end
